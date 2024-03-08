@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.springframework.integration.helper"},{"l":"org.springframework.integration.helper.config"}]

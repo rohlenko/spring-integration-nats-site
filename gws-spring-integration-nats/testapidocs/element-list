@@ -1,0 +1,8 @@
+org.springframework.integration.nats
+org.springframework.integration.nats.config
+org.springframework.integration.nats.dto
+org.springframework.integration.nats.math
+org.springframework.integration.nats.support
+org.springframework.integration.nats.support.config
+org.springframework.integration.nats.support.thread
+org.springframework.integration.nats.util

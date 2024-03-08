@@ -1,0 +1,8 @@
+org.springframework.integration.nats
+org.springframework.integration.nats.config
+org.springframework.integration.nats.converter
+org.springframework.integration.nats.dsl
+org.springframework.integration.nats.exception
+org.springframework.integration.nats.listener
+org.springframework.integration.nats.math
+org.springframework.integration.nats.util
